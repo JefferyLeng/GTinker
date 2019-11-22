@@ -31,7 +31,7 @@
         FixDexUtils.loadFixedDex(context);
     }
     
-  4.适当时机调用修复方法（因实现机制问题，支持冷启动生效）
+  4.适当时机调用修复方法（因实现机制问题，支持冷启动生效）PS:当前代码通过push到sdcard来模拟server下载
   
      private void fixBug() {
         // classes2.dex ---> /storage/emulated/0/classes2.dex
