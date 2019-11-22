@@ -1,0 +1,3 @@
+cc.guider.architeature.inspurhotfix/MainActivity.class
+cc.guider.architeature.inspurhotfix/BaseActivity.class
+cc.guider.architeature.inspurhotfix/GuiderApplication.class
